@@ -69,4 +69,4 @@ On the backend, the Spring Boot service:
 3. Review:
     - The token’s Header, Payload, and Signature,
     - The result of local validation (e.g. whether the token is expired),
-    - The full backend validation result (e.g. issuer, subject, audience, etc.)."# keycloak-jwt-validator-springboot-react"
+    - The full backend validation result (e.g. issuer, subject, audience, etc.).
