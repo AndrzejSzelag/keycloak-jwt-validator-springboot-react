@@ -46,7 +46,7 @@ On the backend, the Spring Boot service:
 - `REACT_APP_API_PATH=/api/v1`
 
 ### 6. Run the Spring Boot Backend
-- Navigate to the root project directory in your terminal and execute command: `./gradlew bootRun`
+- Navigate to the root project directory in your terminal and execute command: `gradlew bootRun`
 
 > The backend start on port **8888**.
 
@@ -69,6 +69,4 @@ On the backend, the Spring Boot service:
 3. Review:
     - The token’s Header, Payload, and Signature,
     - The result of local validation (e.g. whether the token is expired),
-    - The full backend validation result (e.g. issuer, subject, audience, etc.)."# keycloak-jwt-validator-springboot-react" 
-"# keycloak-jwt-validator-springboot-react" 
-"# keycloak-jwt-validator-springboot-react" 
+    - The full backend validation result (e.g. issuer, subject, audience, etc.)."# keycloak-jwt-validator-springboot-react"
