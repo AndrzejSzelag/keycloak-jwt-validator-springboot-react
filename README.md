@@ -1,7 +1,7 @@
 # Keycloak JWT Validator
 
-[<img alt="springboot" src="https://img.shields.io/badge/Spring Boot-3.4.4-COLOR.svg?logo=LOGO">](<LINK>)
 [<img alt="keycloack" src="https://img.shields.io/badge/Keycloak-26.1.4-COLOR.svg?logo=LOGO">](<LINK>)
+[<img alt="springboot" src="https://img.shields.io/badge/Spring Boot-3.4.4-COLOR.svg?logo=LOGO">](<LINK>)
 [<img alt="react" src="https://img.shields.io/badge/React-19.1.0-COLOR.svg?logo=LOGO">](<LINK>)
 [<img alt="gradle" src="https://img.shields.io/badge/Gradle-8.13-COLOR.svg?logo=LOGO">](<LINK>)
 
