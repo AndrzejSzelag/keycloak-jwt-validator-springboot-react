@@ -4,7 +4,9 @@
 
 The backend is configured as a Resource Server, leveraging Spring Security’s OAuth2 capabilities and the `NimbusJwtDecoder` to verify tokens against the public keys provided via Keycloak’s JWK Set URI.
 
-![Keycloak JWT Validator](/src/main/resources/static/images/url1.png "Keycloak JWT Validator")
+![Keycloak JWT Validator - success](/src/main/resources/static/images/url1.png "Keycloak JWT Validator - success")
+
+![Keycloak JWT Validator - error](/src/main/resources/static/images/url2.png "Keycloak JWT Validator - error")
 
 ## Features
 **Keycloak JWT Validator** application:
