@@ -18,11 +18,9 @@ On the backend, the Spring Boot service:
 - Checks the token's validity, including expiry, issuer, subject, and more.
 
 ## Technologies Used
-- **Frontend**: [<img alt="react" src="https://img.shields.io/badge/React-19.1.0-COLOR.svg?logo=LOGO">](https://react.dev/) with authentication components for Keycloak integration (`keycloak-js` library)
+- **Frontend**: React 19.0.1 with authentication components for Keycloak integration (`keycloak-js` library)
 - **Backend**: Spring Boot 3.4.4 with Spring Security OAuth2 Resource Server (Keycloak)
 - **Token Verification**: `Nimbus JWT Decoder` - Nimbus JOSE+JWT library for JWT processing
-
-[<img alt="keycloack" src="https://img.shields.io/badge/Keycloak-26.1.4-COLOR.svg?logo=LOGO">](https://www.keycloak.org/) [<img alt="springboot" src="https://img.shields.io/badge/Spring Boot-3.4.4-COLOR.svg?logo=LOGO">](<https://spring.io/projects/spring-boot>) [<img alt="gradle" src="https://img.shields.io/badge/Gradle-8.13-COLOR.svg?logo=LOGO">](https://gradle.org/)
 
 ## Installation
 
