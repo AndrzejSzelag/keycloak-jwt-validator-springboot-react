@@ -28,7 +28,7 @@ On the backend, the Spring Boot service:
 - Java 21.0.5 LTS: required for Spring Boot 3.4.4 (Spring Boot starters for `web`, `security`, `oauth2-client`, `oauth2-resource-server`, `oauth2-jose`, `keycloak-spring-boot-starter` and `jackson-databind`)
 - Node.js 22.11.0: required for React 19.1.0
 - Gradle 8.13
-- Keycloak 26.1.4 server running with domain and client configured
+- Keycloak 26.1.4 server running with realm and client configured
 
 ### 2. Clone repository using the web URL:
 - `git clone https://github.com/AndrzejSzelag/keycloak-jwt-validator-springboot-react.git`
