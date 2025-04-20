@@ -3,14 +3,7 @@
 [<img alt="springboot" src="https://img.shields.io/badge/Spring Boot-3.4.4-COLOR.svg?logo=LOGO">](<LINK>)
 [<img alt="keycloack" src="https://img.shields.io/badge/Keycloak-26.1.4-COLOR.svg?logo=LOGO">](<LINK>)
 [<img alt="react" src="https://img.shields.io/badge/React-19.1.0-COLOR.svg?logo=LOGO">](<LINK>)
-
-[<img src="https://img.shields.io/badge/Spring Boot-3.4.4-COLOR.svg?logo=LOGO">](<LINK>)
-[<img src="https://img.shields.io/badge/Spring Boot-3.4.4-COLOR.svg?logo=LOGO">](<LINK>)
-
-[<img align="left" alt="reactjs" src="https://img.shields.io/badge/spring%20boot-3.4.4-brightgreen)"/>]
-[<img align="left" alt="reactjs" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)"/>]
-
-
+[<img alt="gradle" src="https://img.shields.io/badge/Gradle 8.13-COLOR.svg?logo=LOGO">](<LINK>)
 
 **Keycloak JWT Validator** is a lightweight tool designed to validate **JSON Web Tokens (JWTs)** issued by a **Keycloak** server. It consists of a **React** frontend and a **Spring Boot** backend, working together to ensure token authenticity and integrity. 
 
