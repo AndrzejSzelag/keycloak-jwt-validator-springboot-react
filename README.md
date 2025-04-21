@@ -5,7 +5,7 @@
 [<img alt="React" src="https://img.shields.io/badge/React-19.1.0-61DAFB?logo=react&logoColor=white">](https://react.dev/) 
 [<img alt="Gradle" src="https://img.shields.io/badge/Gradle-8.13-02303A.svg?logo=gradle">](https://gradle.org/)
 
-👉 **Keycloak JWT Validator** is a fullstack application to decode and validate **JSON Web Tokens (JWTs)** tokens issued by **Keycloak**. It consists of a **React** frontend and a **Spring Boot** backend, working together to ensure token authenticity and integrity. The backend is configured as a Resource Server, leveraging Spring Security’s OAuth2 capabilities and the `NimbusJwtDecoder` to verify tokens against the public keys provided via Keycloak’s JWK Set URI.
+**Keycloak JWT Validator** is a fullstack application to decode and validate **JSON Web Tokens (JWTs)** tokens issued by **Keycloak**. It consists of a **React** frontend and a **Spring Boot** backend, working together to ensure token authenticity and integrity. The backend is configured as a Resource Server, leveraging Spring Security’s OAuth2 capabilities and the `NimbusJwtDecoder` to verify tokens against the public keys provided via Keycloak’s JWK Set URI.
 
 ![Keycloak JWT Validator - success](/src/main/resources/static/images/url1.png "Keycloak JWT Validator - success")
 
@@ -45,7 +45,7 @@ git clone https://github.com/AndrzejSzelag/keycloak-jwt-validator-springboot-rea
 ### 4. Backend Configuration (*.env* file in backend root):
 - `JWK_SET_URI=https://<your-keycloak-server>/realms/<your-realm>/protocol/openid-connect/certs`
 
-> Replace `<your-keycloak-server>` and `<your-realm>` with your Keycloak setup details!
+> 👉 Replace `<your-keycloak-server>` and `<your-realm>` with your Keycloak setup details!
 
 ### 5. Frontend Configuration (*.env* file in frontend root):
 - `REACT_APP_TITLE=Keycloak JWT Validator`
@@ -104,7 +104,7 @@ curl -X POST "http://<your-keycloak-server>/realms/<your-realm>/protocol/openid-
      -d "client_secret=<your-client-secret>"
 ```
   
-> Replace `<your-keycloak-server>`, `<your-realm>`, `<your-client-id>` and `<your-client-secret>` with your Keycloak setup details!
+> 👉 Replace `<your-keycloak-server>`, `<your-realm>`, `<your-client-id>` and `<your-client-secret>` with your Keycloak setup details!
 
 2. In the React application, paste the JWT token into the text area and click **Validate JWT Token**.
 3. Review:
