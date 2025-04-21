@@ -84,7 +84,7 @@ npm run build
 ## Usage
 1. Obtain the JWT access token using curl (client credentials flow), and copy the token value from the response.
 
-- for LINUX:
+- for Linux:
 
 ```bash
 curl -X POST "http://<your-keycloak-server>/realms/<your-realm>/protocol/openid-connect/token" \
@@ -94,7 +94,7 @@ curl -X POST "http://<your-keycloak-server>/realms/<your-realm>/protocol/openid-
      -d "client_secret=<your-client-secret>"
 ```
 
-- for WINDOWS:
+- for Windows:
 
 ```bash
 curl -X POST "http://<your-keycloak-server>/realms/<your-realm>/protocol/openid-connect/token" ^
