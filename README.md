@@ -5,11 +5,6 @@
 [<img alt="React" src="https://img.shields.io/badge/React-19.1.0-61DAFB?logo=react&logoColor=white">](https://react.dev/) 
 [<img alt="Gradle" src="https://img.shields.io/badge/Gradle-8.13-02303A.svg?logo=gradle">](https://gradle.org/)
 
-
-
-
-
-
 👉 **Keycloak JWT Validator** is a lightweight tool designed to validate **JSON Web Tokens (JWTs)** issued by a **Keycloak** server. It consists of a **React** frontend and a **Spring Boot** backend, working together to ensure token authenticity and integrity. The backend is configured as a Resource Server, leveraging Spring Security’s OAuth2 capabilities and the `NimbusJwtDecoder` to verify tokens against the public keys provided via Keycloak’s JWK Set URI.
 
 ![Keycloak JWT Validator - success](/src/main/resources/static/images/url1.png "Keycloak JWT Validator - success")
@@ -18,10 +13,10 @@
 
 ## Features
 **Keycloak JWT Validator** application:
-- Decodes the JWT token,
-- Validates its structure (ensures it contains three parts and valid JSON),
+- Parses and decodes the JWT token,
+- Validates the token structure (ensures it contains three parts and valid JSON),
 - Checks the expiry date,
-- Sends the token to the backend for full verification.
+- Forwards the token to the backend for full signature and claim verification.
 
 On the backend, the Spring Boot service:
 - Verifies the token’s signature using public keys retrieved from Keycloak's JWK Set URI,
