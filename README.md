@@ -5,44 +5,6 @@
 [<img alt="React" src="https://img.shields.io/badge/React-19.1.0-61DAFB?logo=react&logoColor=white">](https://react.dev/) 
 [<img alt="Gradle" src="https://img.shields.io/badge/Gradle-8.13-02303A.svg?logo=gradle">](https://gradle.org/)
 
-
-
-### 🧰 Tech & Tools
-[<img alt="Keycloak" src="https://img.shields.io/badge/Keycloak-26.1.4-0071C1.svg?logo=keycloak">](https://www.keycloak.org/) 
-[<img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-3.4.4-6DB33F.svg?logo=springboot">](https://spring.io/projects/spring-boot)
-[<img alt="React" src="https://img.shields.io/badge/React-19.1.0-61DAFB?logo=react&logoColor=white">](https://react.dev/)
-[<img alt="Gradle" src="https://img.shields.io/badge/Gradle-8.13-02303A.svg?logo=gradle">](https://gradle.org/)
-[<img alt="Lombok" src="https://img.shields.io/badge/Lombok-1.18.30-DA525D.svg?logo=java">](https://projectlombok.org/)
-[<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-7.0-47A248.svg?logo=mongodb">](https://www.mongodb.com/)
-[<img alt="Apache Kafka" src="https://img.shields.io/badge/Apache Kafka-3.7.0-231F20.svg?logo=apachekafka">](https://kafka.apache.org/)
-[<img alt="OAuth 2.0" src="https://img.shields.io/badge/OAuth 2.0-Protocol-2C2255.svg?logo=oauth">](https://oauth.net/2/)
-[<img alt="Maven" src="https://img.shields.io/badge/Maven-3.9.6-C71A36.svg?logo=apachemaven">](https://maven.apache.org/)
-[<img alt="Java EE" src="https://img.shields.io/badge/Java EE-8-007396.svg?logo=java">](https://jakarta.ee/)
-[<img alt="Java 17" src="https://img.shields.io/badge/Java-17-ED8B00.svg?logo=openjdk">](https://openjdk.org/projects/jdk/17/)
-[<img alt="Java 21" src="https://img.shields.io/badge/Java-21-ED8B00.svg?logo=openjdk">](https://openjdk.org/projects/jdk/21/)
-[<img alt="JPA" src="https://img.shields.io/badge/JPA-Hibernate-59666C.svg?logo=hibernate">](https://hibernate.org/)
-[<img alt="JSF" src="https://img.shields.io/badge/JSF-3.0-2C2255.svg?logo=java">](https://jakarta.ee/specifications/faces/)
-[<img alt="CDI" src="https://img.shields.io/badge/CDI-4.0-2C2255.svg?logo=java">](https://jakarta.ee/specifications/cdi/)
-[<img alt="JTA" src="https://img.shields.io/badge/JTA-2.0-007396.svg?logo=java">](https://jakarta.ee/specifications/transactions/)
-[<img alt="Docker" src="https://img.shields.io/badge/Docker-24.0.7-2496ED.svg?logo=docker">](https://www.docker.com/)
-[<img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-1.30-326CE5.svg?logo=kubernetes">](https://kubernetes.io/)
-[<img alt="Boot Faces" src="https://img.shields.io/badge/Boot Faces-3.0.1-7952B3.svg?logo=bootstrap">](https://github.com/TheCoder4eu/BootsFaces-OSP)
-[<img alt="PrimeFaces" src="https://img.shields.io/badge/PrimeFaces-13.0.2-2C2255.svg?logo=primefaces">](https://www.primefaces.org/)
-[<img alt="Payara Server" src="https://img.shields.io/badge/Payara Server-6.2024.1-FF7300.svg?logo=payara">](https://www.payara.fish/)
-[<img alt="Visual Studio Code" src="https://img.shields.io/badge/VS Code-1.88.1-007ACC.svg?logo=visualstudiocode">](https://code.visualstudio.com/)
-[<img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ IDEA-2024.1-000000.svg?logo=intellijidea">](https://www.jetbrains.com/idea/)
-[<img alt="Python" src="https://img.shields.io/badge/Python-3.12-3776AB.svg?logo=python">](https://www.python.org/)
-[<img alt="Django" src="https://img.shields.io/badge/Django-5.0.3-092E20.svg?logo=django">](https://www.djangoproject.com/)
-[<img alt="Thymeleaf" src="https://img.shields.io/badge/Thymeleaf-3.1.1-005F0F.svg?logo=thymeleaf">](https://www.thymeleaf.org/)
-[<img alt="Mockito" src="https://img.shields.io/badge/Mockito-5.11.0-4184F3.svg?logo=java">](https://site.mockito.org/)
-[<img alt="JUnit" src="https://img.shields.io/badge/JUnit 5-5.10.1-25A162.svg?logo=junit5">](https://junit.org/)
-[<img alt="AssertJ" src="https://img.shields.io/badge/AssertJ-3.25.1-5A32A3.svg?logo=java">](https://assertj.github.io/doc/)
-[<img alt="SonarQube" src="https://img.shields.io/badge/SonarQube-10.4-4E9BCD.svg?logo=sonarqube">](https://www.sonarsource.com/products/sonarqube/)
-
-
-
-
-
 👉 **Keycloak JWT Validator** is a fullstack application to decode and validate **JSON Web Tokens (JWTs)** tokens issued by **Keycloak**. It consists of a **React** frontend and a **Spring Boot** backend, working together to ensure token authenticity and integrity. The backend is configured as a Resource Server, leveraging Spring Security’s OAuth2 capabilities and the `NimbusJwtDecoder` to verify tokens against the public keys provided via Keycloak’s JWK Set URI.
 
 ![Keycloak JWT Validator - success](/src/main/resources/static/images/url1.png "Keycloak JWT Validator - success")
