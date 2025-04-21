@@ -43,7 +43,7 @@ git clone https://github.com/AndrzejSzelag/keycloak-jwt-validator-springboot-rea
 ### 3. Make sure you have the correct environment variables or application properties set to connect with your Keycloak instance.
 
 ### 4. Backend Configuration (*.env* file in backend root):
-- `JWK_SET_URI=https://<your-keycloak-server>/realms/<your-realm>/protocol/openid-connect/certs`
+`JWK_SET_URI=https://<your-keycloak-server>/realms/<your-realm>/protocol/openid-connect/certs`
 
 > Replace `<your-keycloak-server>` and `<your-realm>` with your Keycloak setup details!
 
