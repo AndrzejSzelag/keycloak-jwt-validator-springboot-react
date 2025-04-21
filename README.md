@@ -25,7 +25,7 @@ On the backend, the Spring Boot service:
 ## Technologies Used
 - **Frontend**: React 19.0.1 with authentication components for Keycloak integration (`keycloak-js` library)
 - **Backend**: Spring Boot 3.4.4 with Spring Security OAuth2 Resource Server (Keycloak)
-- **Token Verification**: Spring Security integration with `Nimbus JWT Decoder` (Nimbus JOSE+JWT)
+- **Token Verification**: Spring Security integration with `NimbusJwtDecoder` (Nimbus JOSE+JWT)
 
 ## Installation
 
@@ -53,7 +53,7 @@ On the backend, the Spring Boot service:
 ### 6. Run the Spring Boot Backend
 - Navigate to the root project directory in your terminal and execute command: `gradle bootRun`
 
-> The backend start on port **8888**.
+> The backend starts on port **8888**.
 
 ### 7. Run the React Frontend
 - Navigate to the frontend project directory in your terminal: `cd frontend`
@@ -61,10 +61,10 @@ On the backend, the Spring Boot service:
     - `npm install`
     - `npm start`
 
-> The frontend start on port **3000**.
+> The frontend starts on port **3000**.
 
 ## Usage
-1. In the terminal, obtain the JWT access token using the cURL tools and copy it.
+1. Obtain the JWT access token using curl (client credentials flow), and copy the token value from the response.
 
 - `curl -X POST "http://<your-keycloak-server>/realms/<your-realm>/protocol/openid-connect/token" -H "Content-Type: application/x-www-form-urlencoded" -d "grant_type=client_credentials" -d "client_id=<your-client-id>" -d "client_secret=<your-client-secret>"`
 
