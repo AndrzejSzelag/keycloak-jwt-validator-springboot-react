@@ -22,7 +22,7 @@ On the backend, the Spring Boot service:
 ## Technologies Used
 - **Frontend**: React 19.0.1 with authentication components for Keycloak integration (`keycloak-js` library)
 - **Backend**: Spring Boot 3.4.4 with Spring Security OAuth2 Resource Server (Keycloak)
-- **Token Verification**: `Nimbus JWT Decoder` - Nimbus JOSE+JWT library for JWT processing
+- **Token Verification**: `Nimbus JWT Decoder` using the Nimbus JOSE+JWT library for JWT processing
 
 ## Installation
 
