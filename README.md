@@ -84,6 +84,8 @@ npm run build
 ## Usage
 1. Obtain the JWT access token using curl (client credentials flow), and copy the token value from the response.
 
+- for LINUX:
+
 ```bash
 curl -X POST "http://<your-keycloak-server>/realms/<your-realm>/protocol/openid-connect/token" \
      -H "Content-Type: application/x-www-form-urlencoded" \
@@ -92,6 +94,16 @@ curl -X POST "http://<your-keycloak-server>/realms/<your-realm>/protocol/openid-
      -d "client_secret=<your-client-secret>"
 ```
 
+- for WINDOWS:
+
+```bash
+curl -X POST "http://<your-keycloak-server>/realms/<your-realm>/protocol/openid-connect/token" ^
+     -H "Content-Type: application/x-www-form-urlencoded" ^
+     -d "grant_type=client_credentials" ^
+     -d "client_id=<your-client-id>" ^
+     -d "client_secret=<your-client-secret>"
+```
+  
 > Replace `<your-keycloak-server>`, `<your-realm>`, `<your-client-id>` and `<your-client-secret>` with your Keycloak setup details!
 
 2. In the React application, paste the JWT token into the text area and click **Validate JWT Token**.
