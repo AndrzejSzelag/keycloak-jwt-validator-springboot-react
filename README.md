@@ -61,11 +61,14 @@ gradle bootRun
 
 > The backend starts on port **8888**.
 
-### 7. Run the React Frontend
-- Navigate to the frontend project directory in your terminal: `cd frontend`
-- Execute command: 
-    - `npm install`
-    - `npm start`
+### 7. Development: Run the React Frontend locally
+- Navigate to the frontend project directory in your terminal:
+
+```bash
+cd frontend
+npm install
+npm start
+```
 
 > The frontend starts on port **3000**.
 
