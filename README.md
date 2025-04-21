@@ -94,7 +94,7 @@ curl -X POST "http://<your-keycloak-server>/realms/<your-realm>/protocol/openid-
 
 > Replace `<your-keycloak-server>`, `<your-realm>`, `<your-client-id>` and `<your-client-secret>` with your Keycloak setup details!
 
-2. In the React application, paste the JWT token into the text area and click Validate JWT Token.
+2. In the React application, paste the JWT token into the text area and click **Validate JWT Token**.
 3. Review:
     - The token’s Header, Payload, and Signature,
     - The result of local validation (e.g. whether the token is expired),
