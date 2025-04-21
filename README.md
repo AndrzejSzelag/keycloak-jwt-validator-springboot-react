@@ -53,7 +53,11 @@ git clone https://github.com/AndrzejSzelag/keycloak-jwt-validator-springboot-rea
 - `REACT_APP_API_PATH=/api/v1`
 
 ### 6. Run the Spring Boot Backend
-- Navigate to the root project directory in your terminal and execute command: `gradle bootRun`
+- Navigate to the root project directory in your terminal and execute command:
+
+```bash
+gradle bootRun
+```
 
 > The backend starts on port **8888**.
 
