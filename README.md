@@ -9,35 +9,31 @@
 
 ### 🧰 Tech & Tools
 
-<a href="https://www.java.com/en/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></a>
-<a href="https://openjdk.org/projects/jdk/17/"><img src="https://img.shields.io/badge/Java 17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
-<a href="https://openjdk.org/projects/jdk/21/"><img src="https://img.shields.io/badge/Java 21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
-<a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/></a>
-<a href="https://projectlombok.org/"><img src="https://img.shields.io/badge/Lombok-FF0000?style=for-the-badge&logoColor=white"/></a>
-<a href="https://maven.apache.org/"><img src="https://img.shields.io/badge/Apache Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/></a>
-<a href="https://jakarta.ee/"><img src="https://img.shields.io/badge/Java EE-007396?style=for-the-badge&logo=java&logoColor=white"/></a>
-<a href="https://hibernate.org/jpa/"><img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/></a>
-<a href="https://jakarta.ee/specifications/faces/"><img src="https://img.shields.io/badge/JSF-2C2255?style=for-the-badge&logoColor=white"/></a>
-<a href="https://jakarta.ee/specifications/cdi/"><img src="https://img.shields.io/badge/CDI-0099CC?style=for-the-badge&logoColor=white"/></a>
-<a href="https://jakarta.ee/specifications/transactions/"><img src="https://img.shields.io/badge/JTA-7B4F9A?style=for-the-badge&logoColor=white"/></a>
-<a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
-<a href="https://kafka.apache.org/"><img src="https://img.shields.io/badge/Apache Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/></a>
-<a href="https://kafka.apache.org/documentation/#kraft"><img src="https://img.shields.io/badge/KRaft-FF6F00?style=for-the-badge&logo=apachekafka&logoColor=white"/></a>
-<a href="https://oauth.net/2/"><img src="https://img.shields.io/badge/OAuth 2.0-0064A5?style=for-the-badge&logo=oauth&logoColor=white"/></a>
-<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
-<a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/></a>
-<a href="https://github.com/thecoderscorner/boot-faces"><img src="https://img.shields.io/badge/Boot Faces-0E76A8?style=for-the-badge&logoColor=white"/></a>
-<a href="https://www.primefaces.org/"><img src="https://img.shields.io/badge/PrimeFaces-205081?style=for-the-badge&logo=primefaces&logoColor=white"/></a>
-<a href="https://www.payara.fish/"><img src="https://img.shields.io/badge/Payara Server-00AEEF?style=for-the-badge&logoColor=white"/></a>
-<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/></a>
-<a href="https://www.jetbrains.com/idea/"><img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/></a>
-<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
-<a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/></a>
-<a href="https://www.thymeleaf.org/"><img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logoColor=white"/></a>
-<a href="https://site.mockito.org/"><img src="https://img.shields.io/badge/Mockito-0A0A0A?style=for-the-badge&logo=mockito&logoColor=white"/></a>
-<a href="https://junit.org/"><img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white"/></a>
-<a href="https://assertj.github.io/doc/"><img src="https://img.shields.io/badge/AssertJ-4B0082?style=for-the-badge&logoColor=white"/></a>
-<a href="https://www.sonarsource.com/products/sonarqube/"><img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/></a>
+<div align="center">
+
+<table>
+  <tr>
+    <td><a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></a></td>
+    <td><a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/></a></td>
+    <td><a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/></a></td>
+    <td><a href="https://kafka.apache.org/"><img src="https://img.shields.io/badge/Apache Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://jakarta.ee/"><img src="https://img.shields.io/badge/Java EE-007396?style=for-the-badge&logo=java&logoColor=white"/></a></td>
+    <td><a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a></td>
+    <td><a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/></a></td>
+    <td><a href="https://oauth.net/2/"><img src="https://img.shields.io/badge/OAuth 2.0-0064A5?style=for-the-badge&logo=oauth&logoColor=white"/></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.jetbrains.com/idea/"><img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/></a></td>
+    <td><a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a></td>
+    <td><a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/></a></td>
+    <td><a href="https://www.thymeleaf.org/"><img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logoColor=white"/></a></td>
+  </tr>
+</table>
+
+</div>
+
 
 
 
