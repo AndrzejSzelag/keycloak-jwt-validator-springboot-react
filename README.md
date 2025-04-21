@@ -37,7 +37,6 @@ On the backend, the Spring Boot service:
 
 ### 2. Clone repository using the web URL:
 ```bash
-bash
 git clone https://github.com/AndrzejSzelag/keycloak-jwt-validator-springboot-react.git
 ```
 
