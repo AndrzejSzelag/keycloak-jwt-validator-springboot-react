@@ -9,31 +9,35 @@
 
 ### 🧰 Tech & Tools
 
-<div align="center">
-
-<table>
-  <tr>
-    <td><a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></a></td>
-    <td><a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/></a></td>
-    <td><a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/></a></td>
-    <td><a href="https://kafka.apache.org/"><img src="https://img.shields.io/badge/Apache Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://jakarta.ee/"><img src="https://img.shields.io/badge/Java EE-007396?style=for-the-badge&logo=java&logoColor=white"/></a></td>
-    <td><a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a></td>
-    <td><a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/></a></td>
-    <td><a href="https://oauth.net/2/"><img src="https://img.shields.io/badge/OAuth 2.0-0064A5?style=for-the-badge&logo=oauth&logoColor=white"/></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://www.jetbrains.com/idea/"><img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/></a></td>
-    <td><a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a></td>
-    <td><a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/></a></td>
-    <td><a href="https://www.thymeleaf.org/"><img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logoColor=white"/></a></td>
-  </tr>
-</table>
-
-</div>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Java 17-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java 21-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java EE-007396?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JSF-2C2255?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CDI-2C2255?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JTA-007396?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Payara Server-FF7300?style=flat-square&logo=payara&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lombok-323330?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OAuth 2.0-2C2255?style=flat-square&logo=oauth&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BootFaces-2C2255?style=flat-square&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PrimeFaces-2C2255?style=flat-square&logo=primefaces&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mockito-4184F3?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AssertJ-5A32A3?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white"/>
+</p>
 
 
 
