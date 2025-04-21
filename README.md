@@ -62,7 +62,7 @@ gradle bootRun
 > The backend starts on port **8888**.
 
 ### 7. Development: Run the React Frontend locally
-- Navigate to the frontend project directory in your terminal:
+Navigate to the frontend project directory in your terminal:
 
 ```bash
 cd frontend
@@ -71,6 +71,15 @@ npm start
 ```
 
 > The frontend starts on port **3000**.
+
+### 8. Production Deployment
+For production use, build an optimized version of the React app:
+
+```bash
+cd frontend
+npm install
+npm run build
+```
 
 ## Usage
 1. Obtain the JWT access token using curl (client credentials flow), and copy the token value from the response.
