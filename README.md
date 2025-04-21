@@ -30,8 +30,8 @@ On the backend, the Spring Boot service:
 ## Installation
 
 ### 1. Prerequisites
-- Java 21.0.5 LTS: required for Spring Boot 3.4.4 (Spring Boot starters for `web`, `security`, `oauth2-client`, `oauth2-resource-server`, `oauth2-jose`, `keycloak-spring-boot-starter` and `jackson-databind`)
-- Node.js 22.11.0: required for React 19.1.0
+- Java 21.0.5 LTS or newer: for running Spring Boot 3.4.4
+- Node.js 22.11.0: for development and building the React 19.1.0 frontend
 - Gradle 8.13
 - Keycloak 26.1.4 server running with realm and client configured
 
