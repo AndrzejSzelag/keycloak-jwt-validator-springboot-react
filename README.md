@@ -43,14 +43,21 @@ git clone https://github.com/AndrzejSzelag/keycloak-jwt-validator-springboot-rea
 ### 3. Make sure you have the correct environment variables or application properties set to connect with your Keycloak instance.
 
 ### 4. Backend Configuration (*.env* file in backend root):
-- `JWK_SET_URI=https://<your-keycloak-server>/realms/<your-realm>/protocol/openid-connect/certs`
+```bash
+JWK_SET_URI=https://<your-keycloak-server>/realms/<your-realm>/protocol/openid-connect/certs
+```
 
 > 👉 Replace `<your-keycloak-server>` and `<your-realm>` with your Keycloak setup details!
 
 ### 5. Frontend Configuration (*.env* file in frontend root):
-- `REACT_APP_TITLE=Keycloak JWT Validator`
-- `REACT_APP_API_BASE_URL=http://<your-keycloak-server>`
-- `REACT_APP_API_PATH=/api/v1`
+
+```bash
+REACT_APP_TITLE=Keycloak JWT Validator
+REACT_APP_API_BASE_URL=http://<your-keycloak-server>
+REACT_APP_API_PATH=/api/v1
+```
+
+> 👉 Replace `<your-keycloak-server>` with your Keycloak setup details!
 
 ### 6. Run the Spring Boot Backend
 Navigate to the root project directory in your terminal and execute command:
