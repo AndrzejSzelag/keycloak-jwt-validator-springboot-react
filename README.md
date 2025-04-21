@@ -36,7 +36,9 @@ On the backend, the Spring Boot service:
 - Keycloak 26.1.4 server running with realm and client configured
 
 ### 2. Clone repository using the web URL:
-- `git clone https://github.com/AndrzejSzelag/keycloak-jwt-validator-springboot-react.git`
+```bash
+git clone https://github.com/AndrzejSzelag/keycloak-jwt-validator-springboot-react.git
+```
 
 ### 3. Make sure you have the correct environment variables or application properties set to connect with your Keycloak instance.
 
