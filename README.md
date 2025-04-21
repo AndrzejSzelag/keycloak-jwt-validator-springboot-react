@@ -30,7 +30,7 @@ On the backend, the Spring Boot service:
 ## Installation
 
 ### 1. Prerequisites
-- [<img alt="Java 21" src="https://img.shields.io/badge/Java-21.0.5-ED8B00.svg?logo=openjdk">](https://openjdk.org/projects/jdk/21/): required for Spring Boot 3.4.4 (Spring Boot starters for `web`, `security`, `oauth2-client`, `oauth2-resource-server`, `oauth2-jose`, `keycloak-spring-boot-starter` and `jackson-databind`)
+- [<img alt="Java 21" src="https://img.shields.io/badge/Java-21.0.5-ED8B00.svg?logo=openjdk">]([https://openjdk.org/projects/jdk/21/](https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html): required for Spring Boot 3.4.4 (Spring Boot starters for `web`, `security`, `oauth2-client`, `oauth2-resource-server`, `oauth2-jose`, `keycloak-spring-boot-starter` and `jackson-databind`)
 - Node.js 22.11.0: required for React 19.1.0
 - Gradle 8.13
 - Keycloak 26.1.4 server running with realm and client configured
